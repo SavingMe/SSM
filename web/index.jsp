@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>index....ss.</title>
+    <title>index</title>
 </head>
 <body>
 <input type="button" value="查询所有" onclick="toGetAll()"/>
