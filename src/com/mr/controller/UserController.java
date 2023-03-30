@@ -43,6 +43,7 @@ public class UserController {
         userDao.updUser(usersBean);
         return "forward:getAllUser";
 ///sdsd///  sdsdsdsdsdsdssss
+        //////asdasdsdasdasdasd
     }
 
     @RequestMapping("/delUser")
