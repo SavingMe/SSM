@@ -38,6 +38,7 @@ public class UserController {
 
     }
 
+    ///
     @RequestMapping("/updUser")
     public String toUpd(UsersBean usersBean) {
         userDao.updUser(usersBean);
